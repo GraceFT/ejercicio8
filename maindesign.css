@@ -1,0 +1,15 @@
+
+body{
+    font-family: "Nunito";
+}
+h1, p{font-weight: bolder}
+.but button{
+    border-bottom: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+.but a{
+    color: #fff;
+    text-decoration: none;
+}
+

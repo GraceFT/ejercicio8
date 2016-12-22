@@ -1,5 +1,4 @@
-# Ejercicio 8
-# Diff21
+# Ejercicio 8: Diff21
 
 Inicio: Calcular diferencia.
 

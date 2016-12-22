@@ -1,4 +1,4 @@
-# ejercicio8
+# Ejercicio 8
 # Diff21
 
 Inicio: Calcular diferencia.
@@ -14,12 +14,12 @@ Inicio: Calcular diferencia.
             obtener diferencia y multiplicar por 2//mayor que 21
             obtener diferencia
         - Si no
-            Si (n < 21)
-            obtener diferencia y multiplicar por -1//menor que 21
-            obtener diferencia
+            - Si (n < 21)
+                obtener diferencia y multiplicar por -1//menor que 21
+                obtener diferencia
             
-            Si no
-            obtener diferencia
+            - Si no
+                obtener diferencia
         Fin si        
 Fin si
 
